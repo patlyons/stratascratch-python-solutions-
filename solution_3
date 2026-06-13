@@ -1,4 +1,4 @@
-Find the most profitable location. Calculate the ratio of average transaction amount to average signup duration per location.
+# Find the most profitable location. Calculate the ratio of average transaction amount to average signup duration per location.
 
 # Import your libraries
 import pandas as pd
