@@ -1,4 +1,4 @@
-Find the 3-month rolling average of total revenue from purchases.
+#Find the 3-month rolling average of total revenue from purchases.
 
 # Import your libraries
 import pandas as pd
