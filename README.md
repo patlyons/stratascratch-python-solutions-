@@ -1,10 +1,26 @@
-# stratascratch-python-solutions-
-Analyze Netflix user data to find users for multiple consecutive days.
+# Python Pandas Data Analysis Portfolio
 
-Find all the users who were active for 3 consecutive days or more.
+This repository contains Python/Pandas solutions to real-world data analysis problems inspired by StrataScratch and other analytics interview platforms.
 
-DataFrame:sf_events
+## Skills Demonstrated
 
-record_date: datetime64[ns]
-account_id: object
-user_id: object
+- Data cleaning
+- Data transformation
+- GroupBy operations
+- Aggregations
+- Time-series analysis
+- Exploratory data analysis
+
+## Projects
+
+| Project | Skills |
+|----------|----------|
+| Consecutive Days User Activity | Data cleaning, GroupBy, Filtering and subsetting, Conditional logic|
+| Revenue Over Time | Rolling calculations, Time-based analysis, Aggregations|
+| Most Profitable Location |Merges, Sorting and ranking, GroupBy, Aggregations, Ratio anlysis |
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
