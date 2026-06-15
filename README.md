@@ -17,7 +17,7 @@ This repository contains Python/Pandas solutions to real-world data analysis pro
 |----------|----------|
 | Consecutive Days User Activity | Data cleaning, GroupBy, Filtering and subsetting, Conditional logic|
 | Revenue Over Time | Rolling calculations, Time-based analysis, Aggregations|
-| Most Profitable Location |Merges, Sorting and ranking, GroupBy, Aggregations, Ratio anlysis |
+| Most Profitable Location |Merges, Sorting and ranking, GroupBy, Aggregations, Ratio analysis |
 
 ## Technologies
 
