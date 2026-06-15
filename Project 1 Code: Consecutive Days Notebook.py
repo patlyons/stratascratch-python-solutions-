@@ -4,6 +4,7 @@
 # In[ ]:
 
 # Data from stratascratch.com
+#Consecutive Days User Activity
 
 import pandas as pd
 import numpy as np
