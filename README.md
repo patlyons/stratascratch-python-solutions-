@@ -10,7 +10,7 @@ This repository contains Python/Pandas solutions to real-world data analysis pro
 - Aggregations
 - Time-series analysis
 - Exploratory data analysis
-- Joins
+- Merges
 
 ## Projects
 
